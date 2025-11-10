@@ -127,13 +127,6 @@ jupyter notebook DSA-MiniProjeto1.ipynb
 ```
 4. Execute as células sequencialmente usando `Shift + Enter`
 
-### Arquivo requirements.txt
-
-Para facilitar a instalação, use:
-```bash
-pip install -r requirements.txt
-```
-
 ## 📁 Estrutura do Projeto
 
 ```
